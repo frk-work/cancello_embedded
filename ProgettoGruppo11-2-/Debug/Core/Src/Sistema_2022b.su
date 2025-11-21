@@ -1,0 +1,9 @@
+../Core/Src/Sistema_2022b.c:75:13:CHIUSURA	4	static
+../Core/Src/Sistema_2022b.c:175:13:RIGETTO_RICHIESTA	16	static
+../Core/Src/Sistema_2022b.c:260:13:CANCELLO	16	static
+../Core/Src/Sistema_2022b.c:545:13:broadcast_buttonpressed1	16	static
+../Core/Src/Sistema_2022b.c:557:13:broadcast_buttonpressed2	16	static
+../Core/Src/Sistema_2022b.c:569:13:broadcast_buttonpressed3	16	static
+../Core/Src/Sistema_2022b.c:581:13:c1_Sistema_2022b	8	static
+../Core/Src/Sistema_2022b.c:686:6:Sistema_2022b_step	8	static
+../Core/Src/Sistema_2022b.c:704:6:Sistema_2022b_initialize	4	static
